@@ -67,7 +67,7 @@ Reponsive Fluid Flexbox layout
 </pre>
 </br>
 
-### Week 5: CSS Grid
+## Week 5: CSS Grid
 
 <pre>
 Introduction to CSS Grid layout
@@ -76,7 +76,7 @@ Creating grid-based layouts using CSS Grid
 </pre>
 </br>
 
-### Week 6: CSS How to and more Advanced CSS
+## Week 6: CSS How to and more Advanced CSS
 
 <pre>
 CSS Modals, Dialogs
@@ -86,7 +86,7 @@ Much more
 </pre>
 </br>
 
-### Week 7: Visual Design
+## Week 7: Visual Design
 
 <pre>
 Visual Design Basics
@@ -94,7 +94,7 @@ Plan a site based on Visual Design criteria and implement it
 </pre>
 </br>
 
-### Week 8: Front-end Frameworks
+## Week 8: Front-end Frameworks
 
 <pre>
 Front end Frameworks
