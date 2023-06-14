@@ -1,5 +1,6 @@
 # Basics of Web Development - UI
 
+
 ## Week 1 - Basics of Web Development
 
 ### Recap of Web Development and HTML
@@ -13,6 +14,7 @@ Using the browser as a tool
 Box model: margin, border, padding, content
 Display properties: block, inline, inline-block
 Positioning elements: static, relative, absolute, fixed
+
 
 ## Week 2 - Forms and Advanced CSS
 
@@ -28,6 +30,7 @@ More advanced CSS selectors
 Styling links, lists, and tables
 CSS specificity and inheritance
 
+
 ## Week 3: Responsive Web Design
 
 ### Responsive Web Design
@@ -41,6 +44,7 @@ Creating responsive layouts using CSS
 RWD images, background, content/object fit
 RWD fonts, units
 
+
 ## Week 4: CSS Flexbox
 
 ## CSS Flexbox recap / basics
@@ -53,11 +57,13 @@ Aligning and arranging elements using flexbox
 
 Reponsive Fluid Flexbox layout
 
+
 ## Week 5 8: CSS Grid
 
 Introduction to CSS Grid layout
 Grid containers and grid items
 Creating grid-based layouts using CSS Grid
+
 
 ## Week 6: CSS How to and more Advanced CSS
 
@@ -66,12 +72,14 @@ CSS Animation
 CSS Theming
 Much more
 
+
 ## Week 7
 
 Visual Design Basics
 Plan a site based on Visual Design criteria and implement it
 
-## Week 8
+
+##Week 8
 
 Front end Frameworks
 Bootstrap basics
