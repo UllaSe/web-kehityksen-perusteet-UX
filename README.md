@@ -19,7 +19,7 @@ Positioning elements: static, relative, absolute, fixed
 </pre>
 </br>
 
-Week 2 - Forms and Advanced CSS
+## Week 2 - Forms and Advanced CSS
 
 ### HTML Forms and Input Elements
 <pre>
@@ -36,7 +36,7 @@ CSS specificity and inheritance
 </pre>
 </br>
 
-#Week 3: Responsive Web Design
+## Week 3: Responsive Web Design
 
 ### Responsive Web Design
 <pre>
@@ -52,7 +52,7 @@ RWD fonts, units
 </pre>
 </br>
 
-Week 4: CSS Flexbox
+## Week 4: CSS Flexbox
 
 ### CSS Flexbox recap / basics
 <pre>
