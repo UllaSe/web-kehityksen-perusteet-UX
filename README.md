@@ -2,7 +2,7 @@
 
 </br>
 
-Week 1 - Basics of Web Development
+## Week 1 - Basics of Web Development
 
 ### Recap of Web Development and HTML
 <pre>
